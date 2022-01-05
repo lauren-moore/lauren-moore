@@ -10,8 +10,9 @@
   />
 </a><a href="https://twitter.com/LaurenCaroleen">
   <img
-    alt="LinkedIn"
+    alt="Twitter"
     src="https://img.shields.io/badge/@laurencaroleen-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
   />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-moore&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-moore&layout=compact)
