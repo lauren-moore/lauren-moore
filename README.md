@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: she/her
 - :tada: Current Hackbright Fellow learning the ins and outs of software engineering!
-- 🌎 Learning Python, JavaScript, HTML, CSS, SQL. 
+- 🌎 Learning Python, JavaScript, HTML, CSS, SQL, React.
 <!-- - 📫 Let's connect!  <a href="https://www.linkedin.com/in/laurencaroleen/">
   <img
     alt="LinkedIn"
