@@ -1,7 +1,7 @@
 ### Hi there, I'm Laurén 👋
 
 - 😄 Pronouns: she/her
-- :tada: Hackbright Grad learning the ins and outs of software engineering!
+- :tada: Hackbright Grad
 - 🌎 Python, JavaScript, HTML, CSS, SQL, React.
 <!-- - 📫 Let's connect!  <a href="https://www.linkedin.com/in/laurencaroleen/">
   <img
