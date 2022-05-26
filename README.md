@@ -1,8 +1,11 @@
 ### Hi there, I'm Laurén 👋
 
 - 😄 Pronouns: she/her
-- :tada: Hackbright Grad
-- 🌎 Python, JavaScript, HTML, CSS, SQL, React.
+- :tada: Hackbright Grad 
+- Languages: Python | JavaScript (AJAX, JSON) | PostgreSQL | HTML | CSS
+- Frameworks & Libraries: Flask | Bootstrap | Jinja | React
+- Industry Tools: Git | GitHub | VS Code | Docker | Agile Programming Environment
+
 <!-- - 📫 Let's connect!  <a href="https://www.linkedin.com/in/laurencaroleen/">
   <img
     alt="LinkedIn"
