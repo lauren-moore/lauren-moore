@@ -1,4 +1,4 @@
-### Hi there, I'm Laurén 👋
+### About Me
 
 - 😄 Pronouns: she/her
 - :tada: Hackbright Grad 
