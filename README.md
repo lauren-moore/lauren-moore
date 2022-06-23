@@ -1,10 +1,10 @@
-### Welcome
+## <img height="40" src="https://user-images.githubusercontent.com/91762225/175235065-3b97a366-dca5-48b9-bb39-7e2b56f5b51d.gif"/> Welcome
 
-- 😄 Pronouns: she/her
-- :tada: Hackbright Grad 
-- Languages: Python | JavaScript (AJAX, JSON) | PostgreSQL | HTML | CSS
-- Frameworks & Libraries: Flask | Bootstrap | Jinja | React
-- Industry Tools: Git | GitHub | VS Code | Docker | Agile Programming Environment
+- :frog: Pronouns: she/her
+- 📚 Hackbright Grad 
+- 🖥️ Languages: Python | JavaScript (AJAX, JSON) | PostgreSQL | HTML | CSS
+- :keyboard: Frameworks & Libraries: Flask | Bootstrap | Jinja | React
+- :hammer_and_wrench: Industry Tools: Git | GitHub | VS Code | Docker | Agile Programming Environment
 
 <!-- - 📫 Let's connect!  <a href="https://www.linkedin.com/in/laurencaroleen/">
   <img
@@ -20,4 +20,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-moore&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-moore&layout=compact)
  -->
+
 
