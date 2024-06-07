@@ -1,7 +1,6 @@
 ## <img height="40" src="https://user-images.githubusercontent.com/91762225/175235065-3b97a366-dca5-48b9-bb39-7e2b56f5b51d.gif"/> Welcome
 
 - :frog: Pronouns: she/her
-- 📚 Hackbright Grad 
 - 🖥️ Languages: Python | JavaScript (AJAX, JSON) | Ruby | PostgreSQL | HTML | CSS
 - :keyboard: Frameworks & Libraries: Flask | Bootstrap | Jinja | React | Rails
 - :hammer_and_wrench: Industry Tools: Git | GitHub | VS Code | Docker 
