@@ -2,9 +2,9 @@
 
 - :frog: Pronouns: she/her
 - 📚 Hackbright Grad 
-- 🖥️ Languages: Python | JavaScript (AJAX, JSON) | PostgreSQL | HTML | CSS
-- :keyboard: Frameworks & Libraries: Flask | Bootstrap | Jinja | React
-- :hammer_and_wrench: Industry Tools: Git | GitHub | VS Code | Docker | Agile Programming Environment
+- 🖥️ Languages: Python | JavaScript (AJAX, JSON) | Ruby | PostgreSQL | HTML | CSS
+- :keyboard: Frameworks & Libraries: Flask | Bootstrap | Jinja | React | Rails
+- :hammer_and_wrench: Industry Tools: Git | GitHub | VS Code | Docker 
 
 - 📫 Let's connect!       
 <a href="https://www.linkedin.com/in/laurencaroleen/">
